@@ -1,6 +1,6 @@
 # Rmetzger913.github.io
 
-#Table of Contents
+# Table of Contents
 
 1. Professional Assessment
 2. Code Review
@@ -9,19 +9,19 @@
 5. Databases
 6. Skills Demonstrated
 
-#1. Professional Assessment
+# 1. Professional Assessment
 
 I started in the computer science program in January of 2018, and it has taken me a little over 5 years to complete my degree. I started out having little to no knowledge about computer science or anything in the IT field aside from the feeling that was what I wanted to do with my life. Throughout the course of those 5 years, I have learned how approaching a problem in different ways can lead to solving the issue, the importance of the software life cycle, how integral both software and hardware are to technology. When considering the problem, you need to look at what is available to fix it and what learn as much as you about the problem and what complications can come in solving it. When you are developing software you must plan for the expected lifetime of the software as the software isn’t always likely to be a one and done project. Complications can arise while the software is released as well and upkeeping the software for the duration of its existence.
 
-#2. Code Review
+# 2. Code Review
 
 I used the final project from IT 145 Foundations in App Development as the artifact for this capstone project.
 The code review for that artifact can be found here: 
 https://youtu.be/t3ZI1O4T4Ns
 
-#3. Software Design and Engineering
+# 3. Software Design and Engineering
 
-##Enhancements
+## Enhancements
 - Converted Application from Java to C++
 - Added initial delete and update functions to the application
 - Moved functions from main file to classes - Main file was cluttered and it was hard to find what you were looking for
@@ -29,25 +29,25 @@ https://youtu.be/t3ZI1O4T4Ns
 - Layed initial groundwork for database - Added functions that you be usable with database implementation
 
 
-#4. Algorithms and Data Structures
+# 4. Algorithms and Data Structures
 
-##Enhancements
+## Enhancements
 
 - Secured data inputs with loops - Made functions accept only the allowed input from user
 - Developed algorithms for the application - Added algorithms for the functions to work as intended along with the main menu
 - Updated functions for better efficiency - Added better data structures to the functions.
 
 
-#5. Databases
+# 5. Databases
 
-##Enhancements
+## Enhancements
 
 - Implemented SQLite database
 - Update functions to ensure database security - Updated algorithms to further protect the database from improper user input
 - Updated functions to allow database functionality - Adjusted the functions to interact with the database
 - Removed redundant functions - Removed functions that were no longer needed or in use
 
-#6. Skills Demonstrated
+# 6. Skills Demonstrated
 
 This artifact has allowed me to showcase my understanding of the C++ language. This was my first time converting an application from one language to another. I have worked more with C++ than I have with Java. The best way to demonstrate my ability to work with C++ was to convert all the functions and then make them more efficient. I followed best standards by creating a header file to declare each function used by the application and then a cpp file that defined the functions. I made the main file of the application more organized by taking the functions for handling the data and separating them into the specific classes they needed to be apart of. Then I refined and completed each function so that they would work. When the original artifact was created we only had to implement about half of the functions. With it being my first time working on a larger project I didn’t know at the time of completion that the functions did not all work as intended even if they were implemented. I created code that would be easily reusable across all the classes and if the need arose it could be used to add new classes. The menu can still be expanded to allow for new functions for the user as well. The way that I had the code neatly organized and set up allowed my friends who reviewed my code with me during this portion of the enhancement process to easily jump in and work with me to solve some of the issues that I found in my program.
 
