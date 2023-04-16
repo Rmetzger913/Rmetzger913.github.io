@@ -1,0 +1,25 @@
+﻿  Cruise.cpp
+D:\Richard\School\Computer Science\CS499SoftwareEngineeringCapstone\CS_499_Capstone\Cruise.cpp(59,86): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Richard\School\Computer Science\CS499SoftwareEngineeringCapstone\CS_499_Capstone\Cruise.cpp(60,86): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Richard\School\Computer Science\CS499SoftwareEngineeringCapstone\CS_499_Capstone\Cruise.cpp(61,92): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Richard\School\Computer Science\CS499SoftwareEngineeringCapstone\CS_499_Capstone\Cruise.cpp(62,88): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Richard\School\Computer Science\CS499SoftwareEngineeringCapstone\CS_499_Capstone\Cruise.cpp(63,86): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Richard\School\Computer Science\CS499SoftwareEngineeringCapstone\CS_499_Capstone\Cruise.cpp(116,87): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Richard\School\Computer Science\CS499SoftwareEngineeringCapstone\CS_499_Capstone\Cruise.cpp(125,87): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Richard\School\Computer Science\CS499SoftwareEngineeringCapstone\CS_499_Capstone\Cruise.cpp(134,93): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Richard\School\Computer Science\CS499SoftwareEngineeringCapstone\CS_499_Capstone\Cruise.cpp(143,89): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Richard\School\Computer Science\CS499SoftwareEngineeringCapstone\CS_499_Capstone\Cruise.cpp(152,87): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Passenger.cpp
+D:\Richard\School\Computer Science\CS499SoftwareEngineeringCapstone\CS_499_Capstone\Passenger.cpp(60,82): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Richard\School\Computer Science\CS499SoftwareEngineeringCapstone\CS_499_Capstone\Passenger.cpp(61,86): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Richard\School\Computer Science\CS499SoftwareEngineeringCapstone\CS_499_Capstone\Passenger.cpp(62,90): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Richard\School\Computer Science\CS499SoftwareEngineeringCapstone\CS_499_Capstone\Passenger.cpp(110,83): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Richard\School\Computer Science\CS499SoftwareEngineeringCapstone\CS_499_Capstone\Passenger.cpp(119,87): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Richard\School\Computer Science\CS499SoftwareEngineeringCapstone\CS_499_Capstone\Passenger.cpp(137,91): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Ship.cpp
+D:\Richard\School\Computer Science\CS499SoftwareEngineeringCapstone\CS_499_Capstone\Ship.cpp(74,82): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Richard\School\Computer Science\CS499SoftwareEngineeringCapstone\CS_499_Capstone\Ship.cpp(79,86): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Richard\School\Computer Science\CS499SoftwareEngineeringCapstone\CS_499_Capstone\Ship.cpp(137,83): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Richard\School\Computer Science\CS499SoftwareEngineeringCapstone\CS_499_Capstone\Ship.cpp(192,87): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  CS_499_Capstone.vcxproj -> D:\Richard\School\Computer Science\CS499SoftwareEngineeringCapstone\CS_499_Capstone\x64\Debug\CS_499_Capstone.exe
